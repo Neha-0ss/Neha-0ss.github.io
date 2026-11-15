@@ -1,24 +1,32 @@
-# Pixel Perfect Replay
+# Neha Martolia | Portfolio
 
-Implement exactly the screenshot and nothing else
+Personal portfolio website of **Neha Martolia**, an MCA student and aspiring software developer who builds web, backend and Android applications.
 
-This project was built with [Lovable](https://lovable.dev).
+**Live website:** https://neha-0ss.github.io
+**Repository:** https://github.com/Neha-0ss/Neha-0ss.github.io
 
-## Build with Lovable
+## About
+This portfolio presents my background, technical skills and projects, with a contact section for opportunities.
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/4f91d489-9636-4c60-ad51-1af39577d85e).
+## Sections
+- **Home**: introduction and quick links
+- **About**: education and skills
+- **Projects**: selected work with technologies used
+- **Contact**: email, GitHub and LinkedIn
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+## Tech Stack
+- Frontend: React, TypeScript
+- Hosting: GitHub Pages
+- Other skills shown on the site: Java, Spring Boot, Android, Node.js, REST APIs, MySQL, MongoDB, Git
 
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
+## Run locally
 ```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+git clone https://github.com/Neha-0ss/Neha-0ss.github.io.git
+cd Neha-0ss.github.io
+npm install
 npm run dev
 ```
+
+## Contact
+- GitHub: https://github.com/Neha-0ss
+- LinkedIn: https://www.linkedin.com/in/neha-martolia-12ab60328/
