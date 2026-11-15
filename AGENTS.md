@@ -28,3 +28,7 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Project rules
+- Portfolio content (profile, education, skills, projects) lives in `src/lib/portfolio-data.ts`; pages read from it — edit content there, not in route files.
+- Each site section (Home, About, Projects, Contact) is its own route; shared header/footer wrap `<Outlet />` in `__root.tsx`.
